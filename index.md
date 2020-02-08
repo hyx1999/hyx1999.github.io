@@ -14,8 +14,6 @@
 </table>
 </div>
 
----
-
 现役ACMer，未来希望能做与计算机视觉相关的研究与工作
 
 ---
@@ -26,16 +24,24 @@
 ### 荣誉奖励
 #### 2018
 CCPC 秦皇岛 银奖
+
 ACM-ICPC 徐州 银奖
+
 ACM-ICPC 青岛 铜奖
+
 CCPC 湘潭邀请赛 金奖
+
 ACM-ICPC 南昌邀请赛 金奖
 
 #### 2019
 CCPC 秦皇岛 银奖
+
 ACM-ICPC 南昌 金奖
+
 CCPC final 银奖
+
 ACM-ICPC 上海 金奖
+
 ACM-ICPC final 银奖
 
 ### 实习经历
