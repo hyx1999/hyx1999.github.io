@@ -1,37 +1,42 @@
-## Welcome to GitHub Pages
+<div>
+<table border="0">
+  <tr>
+    <td width="75%">
+      <h1>胡雨轩</h1>
+      <p><b>本科在读</b></p>
+      <p><b>北京交通大学计算机与信息科学技术学院</b></p>
+      <p><b>邮箱：18281039@bjtu.edu.cn</b></p>
+    </td>
+    <td width="25%">
+      <img src="/hyx.jpg" width="100%">
+    </td>
+  </tr>
+</table>
+</div>
 
-You can use the [editor on GitHub](https://github.com/hyx1999/hyx1999.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+---
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+现役ACMer，未来希望能做与计算机视觉相关的研究与工作
 
-### Markdown
+---
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### 研究方向
+计算机视觉
 
-```markdown
-Syntax highlighted code block
+### 荣誉奖励
+#### 2018
+CCPC 秦皇岛 银奖
+ACM-ICPC 徐州 银奖
+ACM-ICPC 青岛 铜奖
+CCPC 湘潭邀请赛 金奖
+ACM-ICPC 南昌邀请赛 金奖
 
-# Header 1
-## Header 2
-### Header 3
+#### 2019
+CCPC 秦皇岛 银奖
+ACM-ICPC 南昌 金奖
+CCPC final 银奖
+ACM-ICPC 上海 金奖
+ACM-ICPC final 银奖
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/hyx1999/hyx1999.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+### 实习经历
+中国科学院计算技术研究所(2020.1~至今)
