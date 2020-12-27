@@ -30,11 +30,12 @@ ACM-ICPC 徐州 银奖
 
 ACM-ICPC 青岛 铜奖
 
+#### 2019年
+
 CCPC 湘潭邀请赛 金奖
 
 ACM-ICPC 南昌邀请赛 金奖
 
-#### 2019年
 CCPC 秦皇岛 银奖
 
 ACM-ICPC 南昌 金奖
